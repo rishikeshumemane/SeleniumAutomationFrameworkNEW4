@@ -1,0 +1,5 @@
+This Frameworkfeature.txt describes all feature included in this framework. 
+
+- debug parameter is set to no by default. Once set to yes, displays all operations that are taken place while running a test suite will be displayed to the console, it is very useful to debug a flow
+
+-  
